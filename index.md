@@ -83,3 +83,6 @@ Online lectures:
 * [Western blot protocol](protocols/Western_blot_protocol.docx)
 
 ### Bioinformatics programme
+
+* [Introduction to R](Reverse_Summer_School_2024_R_Intro/docs/index.html)
+* [Differential gene expression analysis with bulk RNASeq data in R](Reverse_Summer_School_2024_RNAseq/index.md)
