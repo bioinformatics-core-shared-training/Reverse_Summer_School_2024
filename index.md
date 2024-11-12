@@ -79,4 +79,7 @@ Online lectures:
 
 ### Laboratory protocols
 
+* [qRT-PCR protocol](protocols/qRT-PCR_protocol.docx)
+* [Western blot protocol](protocols/Western_blot_protocol.docx)
+
 ### Bioinformatics programme
