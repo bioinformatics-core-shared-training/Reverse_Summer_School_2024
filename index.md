@@ -34,7 +34,7 @@ Online lectures:
 
 ### Monday 4th
 
-* 11-12:00am - Lecture: "Introduction into bioinformatics" (Ash)
+* 11-12:00am - Lecture: "Introduction into bioinformatics" (Ash) [slides](lecture_slides/BioinformaticsLecture.pdf)
 * 12-1pm - lunch  
 * 1-3pm - Applied Bioinformatics training: Introduction into R  (Ash) 
 * 1-3pm Practical (+ lecture);qRT-PCR (Maike and Adelyne)  
@@ -44,7 +44,7 @@ Online lectures:
 
 ### Tuesday 5th
 
-* 11am-12:30pm - Lecture: "Introduction into cancer biology" (Adelyne)    
+* 11am-12:30pm - Lecture: "Introduction into cancer biology" (Adelyne) [slides](lecture_slides/Introduction_to_Cancer_Biology.pdf)    
 * 1-2pm - lunch   
 * 2-3pm - Computational tumour biology: "All models are wrong and yours are useless" (Prof Florian Markowetz)   
 * 3-6pm - Applied Bioinformatics training: Introduction into R (Ash)   
@@ -61,7 +61,7 @@ Online lectures:
 
 ### Thursday 7th
 
-* 11am-12:30pm - Lecture: "Cancer Biology Techniques: WB & ELISA" (Adelyne)
+* 11am-12:30pm - Lecture: "Cancer Biology Techniques: WB & ELISA" (Adelyne) [slides](lecture_slides/Western_Blot_and_ELISA.pdf)
 * 1-2pm - lunch
 * 2-3pm - "Multispectral imaging in early cancer detection" (Prof Sarah Bohndiek)
 * 3-6pm - Applied Bioinformatics training: Differential Gene expression analysis with bulk RNASeq data in R" (Ash)
