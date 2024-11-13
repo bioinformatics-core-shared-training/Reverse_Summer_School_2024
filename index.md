@@ -40,7 +40,7 @@ Online lectures:
 * 1-3pm Practical (+ lecture);qRT-PCR (Maike and Adelyne)  
 * 3-4pm "Metastasis and vascular mimicry" (Prof Greg Hannon)  
 * 4-5pm - Applied Bioinformatics training: Introduction into R (Ash)  
-* 4-5pm - Practical: qRT-PCR (Maike and Adelyne)  
+* 4-5pm - Practical (+ lecture): qRT-PCR (Maike and Adelyne) [slides](lecture_slides/qPCR_lecture.pdf)  
 
 ### Tuesday 5th
 
@@ -48,15 +48,15 @@ Online lectures:
 * 1-2pm - lunch   
 * 2-3pm - Computational tumour biology: "All models are wrong and yours are useless" (Prof Florian Markowetz)   
 * 3-6pm - Applied Bioinformatics training: Introduction into R (Ash)   
-* 3-6pm - Practical (+ lecture): Flow cytometry (Maike)   
+* 3-6pm - Practical (+ lecture): Flow cytometry (Maike) [slides](lecture_slides/Flow_Cytometry_lecture.pdf)  
 
 ### Wednesday 6th
 
-* 11am-12:30pm - Lecture: "Introduction to cancer immunology" (Maike)   
+* 11am-12:30pm - Lecture: "Introduction to cancer immunology" (Maike) [slides](lecture_slides/Introduction_into_cancer_immunology_and_immunotherapy.pdf) 
 * 1-2pm - lunch  
 * 2-3pm - "Circulating tumour DNA" (Dr Amid Roshan)  
 * 3-6pm - Applied Bioinformatics training: Introduction into R (Ash)  
-* 6-7pm - Career advice session: CVs, applications, interviews  
+* 6-7pm - Career advice session: CVs, applications, interviews [slides](lecture_slides/CV_and_career_advice.pdf) 
 * 7-8pm - Personal insights: Angellina, Florence, Gideon, Peter, Segun  
 
 ### Thursday 7th
